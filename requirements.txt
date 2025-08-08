@@ -1,0 +1,10 @@
+transformers
+datasets
+tensorflow
+evaluate
+pandas
+matplotlib
+seaborn
+wordcloud
+gradio
+shap
